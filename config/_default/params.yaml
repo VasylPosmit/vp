@@ -3,9 +3,9 @@
 ############################
 
 author:
-  name: VasylPosmit
+  name: Vasyl Posmit
   image: author.png
-  greeting: "Greetings: Welcome :tada:"
+  greeting: "Welcome to my personal site where I share my thoughts :sparkles:\n\n You are welcome to reach out to me on any of the platforms below."
   icon: ":wave:"
 
 ############################
@@ -13,7 +13,7 @@ author:
 ############################
 
 links:
-  - github: https://github.com/VasylPosmit/vp
+  - github: https://github.com/VasylPosmit
   - link: https://github.com/VasylPosmit/vp#readme
   - linkedin: https://www.linkedin.com/in/posmit/
   - telegram:  https://t.me/posmit

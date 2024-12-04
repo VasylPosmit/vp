@@ -3,10 +3,10 @@
 type: misc
 
 # change these
-jobTitle: Blogger
+jobTitle: Engineer | Strategist | Knowledge Explorer
 name: Vasyl Posmit
 bio: true
 # icon: ":coffee:"
 ---
 
-Add your Bio here: Vasyl worked a lot!:+1:
+About Vasyl: professional and personal :+1:
