@@ -2,7 +2,7 @@
 ## CHANGE THESE
 ############################
 
-baseURL: "https://VasylPosmit.github.io/qubtTemplate"
+baseURL: "https://VasylPosmit.github.io/vp"
 title: Vasyl Posmit
 
 ############################
@@ -12,4 +12,4 @@ title: Vasyl Posmit
 enableEmoji: true
 disableKinds: ["taxonomy", "term"]
 languageCode: "en-us"
-enableRobotsTXT: true
+enableRobotsTXT: false

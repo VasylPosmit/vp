@@ -5,7 +5,7 @@
 author:
   name: VasylPosmit
   image: author.png
-  greeting: "Your new Qubt site :tada:"
+  greeting: "Greetings: Welcome :tada:"
   icon: ":wave:"
 
 ############################
@@ -13,20 +13,20 @@ author:
 ############################
 
 links:
-  - github: https://github.com/VasylPosmit/qubtTemplate
-  - link: https://github.com/VasylPosmit/qubtTemplate#readme
+  - github: https://github.com/VasylPosmit/vp
+  - link: https://github.com/VasylPosmit/vp#readme
+  - linkedin: https://www.linkedin.com/in/posmit/
+  - telegram:  https://t.me/posmit
+  # - email: vasyl.posmit@gmail.com
   # - website: 
   # - x-twitter: 
   # - mastodon: 
-  # - linkedin: 
   # - instagram: 
   # - reddit: 
-  # - telegram: 
   # - whatsapp: 
   # - signal: 
   # - codepen: 
   # - dev: 
-  # - email: 
   # - discord: 
   # - orcid: 
   # - slack: 
@@ -64,7 +64,7 @@ links:
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: qubtTemplate
-description: "Site build with Qubt & Hugo"
+title: paramsVasyl
+description: "description: Site build with Qubt & Hugo"
 images:
   - thumbnail.png

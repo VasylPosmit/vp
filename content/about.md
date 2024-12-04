@@ -4,9 +4,9 @@ type: misc
 
 # change these
 jobTitle: Blogger
-name: VasylPosmit
+name: Vasyl Posmit
 bio: true
-icon: ":coffee:"
+# icon: ":coffee:"
 ---
 
-Add your Bio here!:+1:
+Add your Bio here: Vasyl worked a lot!:+1:
