@@ -3,10 +3,10 @@
 ############################
 
 main:
-- name: Contact
+- name: Home
   url: /
   weight: 10
-- name: Content
+- name: Works
   url: /writing/
   weight: 20
 - name: About
