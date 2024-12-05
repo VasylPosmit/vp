@@ -1,7 +1,7 @@
 # Welcome 🤗 
 This is the repo for Vasyl Posmit's personal site.
 
-It is deployed to GitHub Pages: [https://VasylPosmit.github.io/vp](https://VasylPosmit.github.io/vp)
+The site is deployed to GitHub Pages and available at: [vasylposmit.com](https://vasylposmit.com/)
 
 ## Approach
 
