@@ -9,8 +9,8 @@ The technical implementation of this site was to build it as fast as possible wi
 
 ## Documentation
 
-Key technical considerations are documented under the [meta](meta/) folder.
+Key technical considerations are documented under the [project-log](project-log/) folder.
 
 ---
 
-🙏 Thanks to Christian Olsen [https://github.com/chrede88](https://github.com/chrede88) for the fantastic Hugo theme ([Qubt](https://themes.gohugo.io/themes/qubt/)).
+🙏 Thanks to [Christian Olsen](https://github.com/chrede88) for the fantastic Hugo theme ([Qubt](https://themes.gohugo.io/themes/qubt/)).
