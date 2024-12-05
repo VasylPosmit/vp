@@ -46,7 +46,7 @@
     - **Hugo**: Chosen for:
       - Speed and ease of use for static content.
       - Markdown-first approach and native features (e.g., Table of Contents, taxonomies).
-      - **LLM Support**: Hugo's comprehensive documentation made it easier to leverage GPT for assistance, ensuring rapid problem-solving and efficient development.
+      - **LLM Support**: Hugo's comprehensive documentation made it easier to leverage LLM for assistance, ensuring rapid problem-solving and efficient development.
 
 ---
 

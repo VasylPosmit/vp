@@ -3,7 +3,9 @@
 ############################
 
 author:
-  name: Vasyl Posmit
+  name: Vasyl
+  full_name: Vasyl Posmit
+  introduction: I am Vasyl
   image: avatar.2024-08.jpeg
   greeting: "Distill knowledge into action. \n\n Explore my work, principles and ideas and reach me out :pray:"
   # icon: ":wave:"
@@ -14,10 +16,10 @@ author:
 
 links:
   - github: https://github.com/VasylPosmit
-  - link: https://github.com/VasylPosmit/vp#readme
   - linkedin: https://www.linkedin.com/in/posmit/
   - telegram:  https://t.me/posmit
-  # - email: vasyl.posmit@gmail.com
+  - email: mailto:vasyl.posmit@gmail.com
+  # - link: https://github.com/VasylPosmit/vp#readme
   # - website: 
   # - x-twitter: 
   # - mastodon: 
