@@ -7,7 +7,7 @@ main:
   url: /
   weight: 10
 - name: Works
-  url: /writing/
+  url: /works/
   weight: 20
 - name: About
   url: /about/
