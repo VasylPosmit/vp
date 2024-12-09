@@ -1,5 +1,5 @@
 ---
-title: English
+title: Українська
 subtitle: "A Starting Point Available to Anyone :zap:"
 date: 2024-12-01
 summary: Simply Strategy Essay
