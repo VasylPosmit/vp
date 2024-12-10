@@ -3,23 +3,25 @@ title: Simply Strategy (summary)
 subtitle: "A Starting Point Available to Anyone:zap:"
 date: 2024-12-01
 summary: Short summary of Simply Strategy essay
-tags: strategy
+tags: ["strategy"]
+
 authors:
   - John Doe: author.jpeg
 toc:
-  start: 2
-  end: 4
+  start: 1
+  startLevel: 1
+  end: 3
+  endLevel: 3
   ordered: true
 
 ---
 
-*#strategy #summary #distilled*
+*#strategy #summary #distilled*  
 
-8000 to 800 words distillation of Simply Strategy essay.
+#### Simple Strategy: Unlocking the Power of Clear Thinking  
+*8000 to 800 words distillation of [Simply Strategy essay](/works/simply-strategy/).*  
 
-
-## Simple Strategy: Unlocking the Power of Clear Thinking
-### Prologue: Demystifying Strategy
+#### Prologue: Demystifying Strategy
 In today’s fast-paced world, "strategy" is a buzzword thrown around in boardrooms, personal development seminars, and everywhere in between. Yet, its true meaning remains elusive. Often overcomplicated by jargon or oversimplified to vague notions of “smart planning,” strategy’s ambiguity breeds inefficiency and confusion. At its essence, strategy is about altering our actions to achieve higher-quality results. This article distills the fundamental elements of strategy, making it accessible and practical for everyone.
 
 #### Efficiency Boost: Navigating Ambition, Scarcity, and Unpredictability

@@ -1,5 +1,5 @@
 ---
-title: \template\ Simply Strategy
+title: \template\ Post \#1
 subtitle: "Blog post subtitle :zap:"
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 date: 2023-11-24
@@ -11,10 +11,6 @@ authors:
 markup: 
 ---
 
-
-{{ .TableOfContents }}
-
-
 Use the shortcode "figArray" to add images to your blog post. Add your images to a subfolder. Call the figArray shortcode using the following syntax:
 
 ```
@@ -23,7 +19,7 @@ Use the shortcode "figArray" to add images to your blog post. Add your images to
 Both "figCaption" and "numCols" are optional. The shortcode will try to guess the best number of columns to use for the array of figures if "numCols" is not passed.
 You will need one subfolder containing images per call to the shortcode. The image files need to be one of the following types: png, jpg, jpeg or webp.
 
-{{< figArray subfolder="images" figCaption="A nice figure caption :wave:" >}}
+{{< figArray subfolder="images" figCaption="A nice figure caption :wave:" numCols=2 >}}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. Integer varius ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere :zap:.
 

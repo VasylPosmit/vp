@@ -14,4 +14,4 @@ toc:
 
 ---
 
-English original
+Перекладено ChatGPT, перевірено автором

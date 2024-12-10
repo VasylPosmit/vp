@@ -5,3 +5,6 @@
 
 # Apple stuff
 .DS_Store
+
+# project stuff
+/project-log/temp-notes.md
