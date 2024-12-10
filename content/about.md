@@ -8,5 +8,5 @@ name: Vasyl Posmit
 bio: true
 # icon: ":coffee:"
 ---
-
+Distill knowledge into action. \n\n 
 About Vasyl: professional and personal :+1:
