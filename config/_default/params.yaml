@@ -1,4 +1,4 @@
-version: 0.2.1
+version: 0.2.5
 
 ############################
 ## Author
@@ -9,6 +9,8 @@ author:
   full_name: Vasyl Posmit
   introduction: I am Vasyl
   image: avatar.2024-08.jpeg
+  # image: avatar_2021.jpg
+
   greeting: "Distill knowledge into action. \n\n Explore my work, principles and ideas and reach me out :pray:"
   # icon: ":wave:"
 
