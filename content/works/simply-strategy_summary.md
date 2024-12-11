@@ -1,24 +1,18 @@
 ---
 title: Simply Strategy (summary)
-subtitle: "A Starting Point Available to Anyone:zap:"
-date: 2024-12-01
+subtitle: "A Starting Point Available to Anyone"
+date: 2024-12-01T10:00:00Z
 summary: Short summary of Simply Strategy essay
 tags: ["strategy"]
 
 authors:
   - John Doe: author.jpeg
-toc:
-  start: 1
-  startLevel: 1
-  end: 3
-  endLevel: 3
-  ordered: true
-
+toc: true
 ---
 
 *#strategy #summary #distilled*  
 
-#### Simple Strategy: Unlocking the Power of Clear Thinking  
+## Simply Strategy: Unlocking the Power of Clear Thinking  
 *8000 to 800 words distillation of [Simply Strategy essay](/works/simply-strategy/).*  
 
 #### Prologue: Demystifying Strategy

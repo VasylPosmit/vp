@@ -34,7 +34,7 @@ https://github.com/chrede88/qubt/blob/main/layouts/_default/single.html -->
 
       {{ if $toc }}
         <aside class="toc mb-8 mt-4 flex flex-col">
-          <h2 class="mb-2 text-lg text-slate-500 dark:text-slate-400">Table of Content</h2>
+          <h2 class="mb-2 text-lg text-slate-500 dark:text-slate-400" id="toc">Table of Content</h2>
           <div class="text-md text-slate-700 dark:text-slate-200">
             <nav>
               {{- range .Fragments.Headings }}
@@ -61,11 +61,17 @@ https://github.com/chrede88/qubt/blob/main/layouts/_default/single.html -->
             </nav>
           </div>
         </aside>
+        
       {{ end }}      
       <span class="prose prose-slate break-words text-md text-slate-700 dark:prose-invert prose-pre:max-w-[90vw] dark:text-slate-200 md:prose-pre:max-w-screen-md prose-code:before:hidden prose-code:after:hidden">
         {{ .Content }}
       </span>
     </article>
   </div>
+  {{ if $toc }}
+    <a href="#toc" class="fixed bottom-8 right-12 z-50 flex h-16 w-16 items-center justify-center rounded-full bg-slate-700/50 text-3xl font-bold text-white shadow-lg transition-all hover:bg-slate-700 dark:bg-slate-200/50 dark:text-slate-700 hover:dark:bg-slate-200">
+      &#8593;
+    </a>
+  {{ end }}
 {{ end }}
 

@@ -1,5 +1,3 @@
-
-
 - hugo md consistent formatting
     
     ### 1. Sections (main) **Headings**
@@ -20,16 +18,18 @@
     
     ### 3. **Section Divider**
     
-    - **Format**: `--` (horizontal rule).
+    - **Format**: `---` (horizontal rule).
     - **Style**: Used to visually separate the introductory statement from the detailed subsections.
     - **Content**: Serves as a transition for clarity.
-    
+    Horizontal Rules:
+        Insert horizontal rules (---) to separate distinct sections as in the original text.
+
     ---
     
-    ### 5. **Paragraph group headings are just bold**
-    
-    - **Format**: Bolded sentences within subsections.
-
+    ### 5. Paragraph Group Headings:
+    - Format paragraph group headings using bold text only, without using Markdown heading syntax.    
+    - **Style**: Acts as a micro-heading to organise subsections further.
+    - **Content**: Focuses on specific facets or principles.
     
     ---
     
@@ -43,7 +43,7 @@
     
     ### 7. **Bullet Points and Numbered Lists**
     
-    - **Format**: `` for unordered lists, `1.` for ordered lists.
+    - **Format**: `-` for unordered lists, `1.` for ordered lists.
     - **Style**: Used to break down complex concepts into manageable points.
     - **Content**: Provides examples, contrasts, or steps for clarity (e.g., “Two particular approaches…”).
     
@@ -64,4 +64,3 @@
     - Use **subsection headings** to maintain organisation and clarity.
     - Incorporate **key statements** for emphasis and readability.
     - Ensure logical flow with a mix of paragraphs, bullet points, and subheadings.
-    

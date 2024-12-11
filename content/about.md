@@ -3,10 +3,13 @@
 type: misc
 
 # change these
-jobTitle: Engineer | Strategist | Knowledge Explorer
+jobTitle: Software Engineer and Knowledge Explorer
 name: Vasyl Posmit
 bio: true
 # icon: ":coffee:"
 ---
-Distill knowledge into action. \n\n 
-About Vasyl: professional and personal :+1:
+> Distill knowledge into action. 
+
+
+About Vasyl:
+I will add professional and personal soon :+1:

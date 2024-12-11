@@ -33,12 +33,12 @@ In the seven sections ahead, I will explore the following angles on strategy:
 4. **USE CASE**: When to apply and when to abstain.
 5. **INSIDE THE STRATEGIST’S MIND**: Core practices—clarity, sense-making, planning, learning, and attention control.
 6. **FRESHLY ACCESSIBLE TO ANYONE**: From the skill of rulers to a universally accessible tool for intentional and impactful action.
-7. **APPLICATIONS**: Practical implications and takeaways.
+7. 🔨 [APPLICATIONS](#applications): Practical implications and takeaways.  
 
 Let’s begin.
 
 ---
-
+[⬆️](#toc)
 
 ## EFFICIENCY BOOST
 
@@ -487,9 +487,11 @@ And as we stand on the cusp of an era where strategy may soon become available t
 
 Still skeptical? Talk strategy with a friend — it's eye-opening and one of the best conversations you'll ever have. It’s an opportunity to share visions, challenge ideas, and inspire each other toward greater achievements.
 
+---
+[⬆️](#toc)
 ## APPLICATIONS
 
-When ambition calls for strategy. Disciplines ground it. Tools flex it. Words sharpen it.
+*When ambition calls for strategy. Disciplines ground it. Tools flex it. Words sharpen it.*
 
 ---
 
