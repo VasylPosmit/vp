@@ -1,4 +1,4 @@
-version: 0.4.1
+version: 0.4.2
 
 ############################
 ## Author
@@ -6,8 +6,8 @@ version: 0.4.1
 
 author:
   name: Vasyl
-  full_name: Vasyl Posmit
-  introduction: I am Vasyl
+  # full_name: Vasyl Posmit
+  # introduction: I am Vasyl
   image: avatar.jpeg
   # image: avatar_2021.jpg
 

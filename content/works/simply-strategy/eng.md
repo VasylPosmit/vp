@@ -420,7 +420,7 @@ This rigidity erased the need for localized decision-making, as enterprises were
 
 Other factors which provide little room for strategy include dogmatism, where change is suppressed by rigid adherence to unchallengeable principles; extreme bureaucracy, which limits adaptability in large organizations or states by prioritizing compliance over creativity; and algorithmic systems that, while not completely cancelling choices, deliberately constrain individual autonomy and decision-making. Examples include centralised interpretations of the doctrine in some major religious institutions, layers of administrative control in certain UN agencies or heavily state-regulated enterprises, and platforms like gig economy systems or China's social credit system.
 
-#### State of Affairs Now
+### State of Affairs Now
 
 The 21st century has ushered in profound changes that have reshaped the landscape in which strategy is developed and applied. These transformations are characterized by unprecedented levels of democratization, globalization, and digitalization. Together, they have not only expanded the horizons of what is possible but also introduced new complexities that strategists must navigate.
 
@@ -459,7 +459,7 @@ Digital technology has revolutionized how we live and work, offering both signif
 * **Information Overload**: The abundance of data, including low-quality or misleading information, can overwhelm individuals, making it challenging to discern valuable insights necessary for strategic planning.  
 * **Reduction of Attention Span**: The rapid pace of digital content consumption, particularly through social media, has been linked to decreased attention spans. This shift can undermine the ability to engage in deep, focused thinking required for long-term strategy development.
 
-#### Accessible to Anyone
+### Accessible to Anyone
 
 In today's world, the application of strategy is more accessible yet more complex than ever before. Democratization empowers individuals, globalization expands horizons, and digitalization accelerates possibilities—all while introducing new challenges that require careful navigation.
 
