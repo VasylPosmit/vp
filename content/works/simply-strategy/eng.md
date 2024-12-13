@@ -13,6 +13,8 @@ toc:
 
 ---
 
+---
+
 *This essay is a starting point available to anyone: how to get the basics right and make strategy useful.*
 
 ---

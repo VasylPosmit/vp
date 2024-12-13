@@ -6,7 +6,7 @@ version: 0.4.2
 
 author:
   name: Vasyl
-  # full_name: Vasyl Posmit
+  full_name: Vasyl Posmit
   # introduction: I am Vasyl
   image: avatar.jpeg
   # image: avatar_2021.jpg
@@ -71,6 +71,6 @@ links:
 ###############################
 
 title: paramsVasyl
-description: "description: Site build with Qubt & Hugo"
+description: "Vasyl Posmit personal site"
 images:
   - thumbnail.png
