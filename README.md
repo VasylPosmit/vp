@@ -3,7 +3,7 @@ This is the repo for Vasyl Posmit's personal site.
 
 ## Approach
 
-The technical implementation of this site was to build it as fast as possible with maximum leverage of AI tools. The initial version was built and deployed in 8 working hours with zero previous experience with Hugo and a clean laptop, which required installing everything, including the IDE.
+The technical implementation of this site was to build it as fast as possible with maximum leverage of AI tools. The initial version was built and deployed in December 2024. It was done in 8 working hours with zero Hugo experience and a clean laptop, which required installing everything, including the IDE.
 
 ## Tech
 
